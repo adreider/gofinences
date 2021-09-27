@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "gofinence",
+    "slug": "gofinence",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "gofinence"
+}
