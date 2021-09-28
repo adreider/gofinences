@@ -10,9 +10,7 @@ Projeto desenvolvido no Bootcamp(ignite) Rocketseat
 
 - ⚛️ [React Native](https://reactnative.dev/).
 - [Expo](https://docs.expo.dev/).
-- [React Hook Form](https://react-hook-form.com/).
 - [Styled-Components](https://styled-components.com/).
-- [Login social](https://docs.expo.dev/guides/authentication/)
 
 <br>
 
