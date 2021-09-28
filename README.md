@@ -12,6 +12,7 @@ Projeto desenvolvido no Bootcamp(ignite) Rocketseat
 
 <br>
 
-## Layout figma(https://www.figma.com/file/vHnQsAQdYFAuvOBXe4oDAM/GoFinances-Ignite)
+## Layout 
+- figma(https://www.figma.com/file/vHnQsAQdYFAuvOBXe4oDAM/GoFinances-Ignite)
 
 <br>
