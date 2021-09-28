@@ -1,8 +1,6 @@
-# gofinences
+# Gofinences
 
 Projeto desenvolvido no Bootcamp(ignite) Rocketseat
-
-# GoFinances
 
 <br>
 
