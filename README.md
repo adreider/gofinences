@@ -1,6 +1,6 @@
 # Gofinences
 
-Projeto desenvolvido no Bootcamp(ignite) Rocketseat
+Projeto desenvolvido na Trilha de React Native Bootcamp(ignite) Rocketseat
 
 <br>
 
