@@ -1,6 +1,10 @@
 # Gofinences
 
-Projeto desenvolvido na Trilha de React Native Bootcamp(ignite) Rocketseat
+##Projeto desenvolvido na Trilha de React Native Bootcamp(ignite) Rocketseat
+
+<p style="align-itens: center">
+  <img src="https://raw.githubusercontent.com/lmiguelm/gofinances/master/.github/GoFinances.svg"/>
+</p>
 
 <br>
 
